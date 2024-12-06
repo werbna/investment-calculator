@@ -5,6 +5,9 @@ This is a simple investment calculator application built with React. It allows u
 
 ![Investment Calculator UI](https://i.imgur.com/QWGAlzz.png)
 
+## Live Demo
+Check out the live application here: [Investment Calculator](https://werbna.github.io/investment-calculator/)
+
 ## Features
 - Input investment details: initial investment, annual contribution, expected return, and duration.
 - Calculates expected returns dynamically.
